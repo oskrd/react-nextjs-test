@@ -1,4 +1,4 @@
-deploy at: [react-next-test.now.sh](react-next-test.now.sh)
+deploy at: [react-next-test.now.sh](https://react-next-test.now.sh)
 
 use NextJS
 
